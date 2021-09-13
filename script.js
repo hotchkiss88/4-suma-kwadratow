@@ -7,4 +7,4 @@ let square = 0;
 console.log(square);
 }
 
-mf();
+mF();
